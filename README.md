@@ -10,8 +10,11 @@ Die Szene kann man Forken. Erstellt ist das Projekt mit der **Unity 3D 2018.2.11
 
    3. [Teleport](https://github.com/Polygonschmiede/UnitySnippets/blob/dev/THLUnitySnippets/Assets/Scripts/Teleport.cs)
 ### Links
-Kommt.
+Oculus Controller Mapping [Link.](https://developer.oculus.com/documentation/unity/latest/concepts/unity-ovrinput/)
+
+OpenVR (HTC Vive) Mapping [Link.](https://docs.unity3d.com/Manual/OpenVRControllers.html)
+
 #### Tutorials
-Kommt.
+Objekte bewegen mit Tastendruck. [Link.](https://www.youtube.com/watch?v=N73EWquTGSY)
 #### Nützliches
 Kommt.
